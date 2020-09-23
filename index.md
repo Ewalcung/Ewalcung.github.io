@@ -33,6 +33,13 @@
 -스케쥴화면
 ![그림](./img/스케쥴화면.png)
 
+-선택창화면
+![그림](./img/선택창.png)
+
+
+-엔딩모음화면
+![그림](./img/엔딩모음화면.png)
+
 ## 동영상
 - 관련 다른 게임
 (https://www.youtube.com/watch?time_continue=1&v=QSSJmJLB4gI&feature=emb_title)

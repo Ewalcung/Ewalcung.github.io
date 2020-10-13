@@ -138,7 +138,7 @@
 |-----:|:-----:|-----|  
 |1|플레이어 캐릭터|<img src = "./img/딸램1.png" width="300">|  
 |2|마을|<img src="./img/마을이미지.png" width="300">|  
-|3|아이템|<img src="./img/옷장" width="300">|  
+|3|아이템|<img src="./img/옷장.png" width="300">|  
 |4|선택지|<img src="./img/선택창.png" width="300">|  
 |5|스케쥴|<img src="./img/스케쥴화면.png" width="300">|  
 
